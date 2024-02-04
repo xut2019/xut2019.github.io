@@ -19,12 +19,15 @@ redirect_from:
 
 I received the M.S. degree in computer science from China University of Petroleum in 2007, and the Ph.D. degree in computer science from IRIP Lab, Beihang University in 2016. Now, I am a Associate Professor with the School of Information Science and Engineering, University of Jinan.
 
-My research interest includes remote sensing image analysis, pattern recognition and human-computer interaction. I have published more than 50 papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes remote sensing image analysis, pattern recognition and human-computer interaction. I have published more than 50 papers at the top international conferences and Journals. Most recently, I am interested in the following topics:
+- Detection, Segmentation and Change Detection in Remote Sensing.
+- Multi-Modal based  Human-Robot Interaction.
+- WebGIS System Development.
 
 
 # 🔥 News
 - *2023.11.25*: &nbsp;🎉🎉 One paper has been published by < a href='https://ieeexplore.ieee.org/document/10373956'> IEEE Geoscience and Remote Sensing Letters</a>. 
-- *2022.10.22*: &nbsp;🎉🎉 Three papers have been accepted by LSMS 2021&ICSEE2021. 
+- *2022.10.22*: &nbsp;🎉🎉 Three papers have been accepted by LSMS 2021&ICSEE2022. 
 
 # 📝 Publications 
 
