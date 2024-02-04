@@ -31,15 +31,16 @@ My research interest includes remote sensing image analysis, pattern recognition
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSLetter</div><img src='images/2023-grsl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks](https://ieeexplore.ieee.org/document/10373956)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Qiu Lu, **Tao Xu**, Jiwen Dong, Qingjie Liu, Xiaohui Yang
+- A self-supervised adaptive fusion network (SSAFN) is designed to enhance the feature representation of objects by suppressing complex background.
+- To validate the generic capability of SSAFN, we integrated SSAFN into multiple detection networks and observe consistent improvements.
+- We have conducted comparison experiments with other mainstream detection methods on SSDD, SAR-Ship Dataset and 5M-building dataset respectively, and the
+experimental results have demonstrated the effectiveness of our method.
 </div>
 </div>
 
