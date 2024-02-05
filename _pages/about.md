@@ -96,7 +96,12 @@ experimental results have demonstrated the effectiveness of our method.
 **Intelligent interpretation of remote sensing images**：Remote sensing images have the advantages of wide observation range, high observation frequency, and objective and realistic observation data. Obtaining useful information from remote sensing images has become an effective means for current social development and governance. The intelligent interpretation of remote sensing images mainly includes research topics such as object detection, object segmentation, change detection, and object and scene classification. The research group has developed research directions such as building detection, water body segmentation, land use classification, and change detection based on actual needs. 
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/robot.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**Human-computer interaction**：Human computer interaction is one of the key technologies for robots to assist human life and work. The laboratory has advanced equipment such as mobile robots and robotic arms, and conducts multimodal human-computer interaction research for elderly care and virtual experiments, with a focus on gesture recognition, multimodal fusion, and understanding of interaction intentions. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2018*  2018SPAC, Best paper awards(corresponding author). 
