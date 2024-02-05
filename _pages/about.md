@@ -113,6 +113,9 @@ experimental results have demonstrated the effectiveness of our method.
 
 # 💻 Datasets
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hand.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **UJN-3M-HANDS**：Large-scale dataset is necessary for training of deep neural network-based hand gesture classification models. According to the requirements of human-interaction in virtual reality-oriented teaching environment, a large-scale depth-based hand gesture dataset was proposed. The dataset, named UJN-3M-HANDS, contained more than 3 million depth gesture samples. There are 17 static gestures and 34 dynamic gestures in UJN-3M-HANDS. Some static gesture samples were demonstrated in Figure. Compared with other data sets, UJN-3M-HANDS proposed is designed for specific teaching application scenarios, and the categories of gestures are consistent with those used in experimental teaching. In the stage of gesture collection, the distance between the camera and the collector is set to more than 2 meters. The advantage of UJN-3M-HANDS is that the gesture samples were acquired from 2000 individuals, while there are many replication samples in other datasets.
 </div>
 </div>
