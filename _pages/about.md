@@ -91,15 +91,13 @@ experimental results have demonstrated the effectiveness of our method.
 
 # 🎖 Honors and Awards
 - *2018*  2018SPAC, Best paper awards(corresponding author). 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *Python Programming*. 
 - *C Programming*. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.11.23*, Research on the Application and Intelligent Interpretation Technology of High Resolution Satellites in Shandong Province, Mount Taishan Meteorological Forum.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
