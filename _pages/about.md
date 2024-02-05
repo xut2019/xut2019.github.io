@@ -26,7 +26,7 @@ My research interest includes remote sensing image analysis, pattern recognition
 
 
 # 🔥 News
-- *2023.11.25*: &nbsp;🎉🎉 One paper has been published by < a href='https://ieeexplore.ieee.org/document/10373956'> IEEE Geoscience and Remote Sensing Letters</a>. 
+- *2023.11.25*: &nbsp;🎉🎉 One paper has been published by [**IEEE Geoscience and Remote Sensing Letters**](https://ieeexplore.ieee.org/document/10373956). 
 - *2022.10.22*: &nbsp;🎉🎉 Three papers have been accepted by LSMS 2021&ICSEE2022. 
 
 # 📝 Publications 
