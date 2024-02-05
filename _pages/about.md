@@ -105,9 +105,9 @@ experimental results have demonstrated the effectiveness of our method.
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2018*  2018SPAC, Best paper awards(corresponding author). 
-
+# 🎖 Faculty and Master Candidates
+- *Faculty* : Feng Zhiquan(PI), Xu Tao, Yang Xiaohui, Si Tongzhen, Guo Qingbei, Zhang Feng. 
+- *Master Candidates* : Lu Qiu, Yu Kunfeng, Li Wenshuo, Li Kaishuo, Li Mengyang; Xiao Chenxin, Zhang Han, Han Mingzhi, Zang Junyuan; Zhu Guangze, Sun Jiahui, Zhai Yijing.
 # 💬 Invited Talks
 - *2022.11.23*, Research on the Application and Intelligent Interpretation Technology of High Resolution Satellites in Shandong Province, Mount Taishan Meteorological Forum.
 
