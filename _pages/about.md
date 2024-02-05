@@ -17,16 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Associate Professor with the School of Information Science and Engineering, University of Jinan. I received the M.S. degree in computer science from China University of Petroleum in 2007, and the Ph.D. degree in computer science from IRIP Lab, Beihang University in 2016. 
+Xu Tao, Ph.D, Associate Professor with the [**School of Information Science and Engineering**](https://ise.ujn.edu.cn/), [University of Jinan](https://www.ujn.edu.cn/). I received the M.S. degree in computer science from China University of Petroleum, and the Ph.D. degree in computer science from [**IRIP Lab**](https://irip.buaa.edu.cn/), Beihang University. 
 
-My research interest includes remote sensing image analysis, pattern recognition and human-computer interaction. I have published more than 50 papers at the top international conferences and Journals. Most recently, I am interested in the following topics:
-- Detection, Segmentation and Change Detection in Remote Sensing.
-- Multi-Modal based  Human-Robot Interaction.
-- WebGIS System Development.
+My research interest includes remote sensing image analysis, pattern recognition and human-computer interaction. I have published more than 50 papers at the international conferences and Journals. Most recently, I am interested in the following topics:
+- **Detection, Segmentation and Change Detection in Remote Sensing**.
+- **Multi-Modal based  Human-Robot Interaction**.
+- **WebGIS System Development**.
 
 
 # 🔥 News
-- *2023.11.25*: &nbsp;🎉🎉 One paper has been published by [**IEEE Geoscience and Remote Sensing Letters**](https://ieeexplore.ieee.org/document/10373956). 
+- *2023.11.25*: &nbsp;🎉🎉 One paper has been published by [**IEEE Geoscience and Remote Sensing Letters**](https://ieeexplore.ieee.org/document/10373956),Congratulations to Lu Qiu!
+- *2023.8.23*: &nbsp;🎉🎉 One paper has been accepted by ICBDT2023, Congratulations to JunYuan!
+- *2023.6.16*: &nbsp;🎉🎉 One paper has been accepted by ICIG2023, Congratulations to KunFeng!
 - *2022.10.22*: &nbsp;🎉🎉 Three papers have been accepted by LSMS 2021&ICSEE2022. 
 
 # 📝 Publications 
