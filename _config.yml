@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "XuTao"
-description              : "XuTao, University of Jinan, PR China. "
+description              : "Room 804, 12th Teaching Building, No. 336, West Road of Nan Xinzhuang. E-mail: xutao@ujn.edu.cn "
 repository               : "xut2019/xut2019.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xu Tao"
   avatar           : "images/xutao.png"
-  bio              : "University of Jinan"
+  bio              : "Ph.D, Associate Prof."
   location         : "Jinan, China"
   employer         :
   pubmed           : 
