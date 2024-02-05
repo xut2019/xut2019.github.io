@@ -89,12 +89,13 @@ experimental results have demonstrated the effectiveness of our method.
 9. Xu T, Wang Y, Zhang Z. Towards independent color space selection for human skin detection[C]. Advances in Multimedia Information Processing–PCM 2012: 13th Pacific-Rim Conference on Multimedia, Singapore, December 4-6, 2012. Proceedings 13. Springer Berlin Heidelberg, 2012: 337-346.
 10. Xu T, Wang C, Wang Y, et al. Saliency model based head pose estimation by sparse optical flow[C]. The First Asian Conference on Pattern Recognition. IEEE, 2011: 575-579.
 
-# 🎖 Honors and Awards
-- *2018*  2018SPAC, Best paper awards(corresponding author). 
-
-# 📖 Educations
+# 📖 Projects
 - *Python Programming*. 
 - *C Programming*. 
+
+
+# 🎖 Honors and Awards
+- *2018*  2018SPAC, Best paper awards(corresponding author). 
 
 # 💬 Invited Talks
 - *2022.11.23*, Research on the Application and Intelligent Interpretation Technology of High Resolution Satellites in Shandong Province, Mount Taishan Meteorological Forum.
@@ -104,7 +105,5 @@ experimental results have demonstrated the effectiveness of our method.
 <div class='paper-box-text' markdown="1">
 
 **IRIP-SKINPATCH dataset**：The IRIP-SKINPATCH dataset is derived from ECU dataset and Compaq dataset. The Compaq dataset provides explicit nonskin images, while its ground truth data are less precise than samples in ECU. Thus, skin patches are randomly cropped from skin regions in ECU, and nonskin patches are selected from nonskin images of Compaq. The IRIP-SKINPATCH is classified into two subsets according to the patch sizes, i.e., 20 × 20 and 10 × 10. The image patches in each subset have been randomly divided into a training subset and testing subset. The amount of patches in the dataset is greater than 1.5 million. More detailes can be found in our paper [Patch-wise skin segmentation of human body parts via deep neural networks(PDF](../data/2015-patchwiseskin.pdf)
-
-
 </div>
 </div>
