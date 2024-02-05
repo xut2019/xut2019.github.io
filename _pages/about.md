@@ -26,9 +26,9 @@ My research interest includes remote sensing image analysis, pattern recognition
 
 
 # 🔥 News
-- *2023.11.25*: &nbsp;🎉🎉 One paper has been published by [**IEEE Geoscience and Remote Sensing Letters**](https://ieeexplore.ieee.org/document/10373956),Congratulations to Lu Qiu!
-- *2023.8.23*: &nbsp;🎉🎉 One paper has been accepted by ICBDT2023, Congratulations to JunYuan!
-- *2023.6.16*: &nbsp;🎉🎉 One paper has been accepted by ICIG2023, Congratulations to KunFeng!
+- **2023.11.25**: &nbsp;🎉🎉 One paper has been published by [**IEEE Geoscience and Remote Sensing Letters**](https://ieeexplore.ieee.org/document/10373956), Congratulations to Lu Qiu!
+- **2023.8.23**: &nbsp;🎉🎉 One paper has been accepted by **ICBDT2023**, Congratulations to JunYuan!
+- **2023.6.16**: &nbsp;🎉🎉 One paper has been accepted by **ICIG2023**, Congratulations to KunFeng!
 - *2022.10.22*: &nbsp;🎉🎉 Three papers have been accepted by LSMS 2021&ICSEE2022. 
 
 # 📝 Publications 
@@ -99,5 +99,12 @@ experimental results have demonstrated the effectiveness of our method.
 # 💬 Invited Talks
 - *2022.11.23*, Research on the Application and Intelligent Interpretation Technology of High Resolution Satellites in Shandong Province, Mount Taishan Meteorological Forum.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Datasets
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IRIP-SKINPATCH</div><img src='images/skin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**IRIP-SKINPATCH dataset**：The IRIP-SKINPATCH dataset is derived from ECU dataset and Compaq dataset. The Compaq dataset provides explicit nonskin images, while its ground truth data are less precise than samples in ECU. Thus, skin patches are randomly cropped from skin regions in ECU, and nonskin patches are selected from nonskin images of Compaq. The IRIP-SKINPATCH is classified into two subsets according to the patch sizes, i.e., 20 × 20 and 10 × 10. The image patches in each subset have been randomly divided into a training subset and testing subset. The amount of patches in the dataset is greater than 1.5 million. More detailes can be found in our paper [Patch-wise skin segmentation of human body parts via deep neural networks(PDF](../data/2015-patchwiseskin.pdf)
+
+
+</div>
+</div>
