@@ -90,7 +90,7 @@ experimental results have demonstrated the effectiveness of our method.
 10. Xu T, Wang C, Wang Y, et al. Saliency model based head pose estimation by sparse optical flow[C]. The First Asian Conference on Pattern Recognition. IEEE, 2011: 575-579.
 
 # 📖 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/rs.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/rs2.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Intelligent interpretation of remote sensing images**：Remote sensing images have the advantages of wide observation range, high observation frequency, and objective and realistic observation data. Obtaining useful information from remote sensing images has become an effective means for current social development and governance. The intelligent interpretation of remote sensing images mainly includes research topics such as object detection, object segmentation, change detection, and object and scene classification. The research group has developed research directions such as building detection, water body segmentation, land use classification, and change detection based on actual needs. 
