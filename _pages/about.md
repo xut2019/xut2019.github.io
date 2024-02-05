@@ -110,14 +110,6 @@ experimental results have demonstrated the effectiveness of our method.
 - *2022.11.23*, Research on the Application and Intelligent Interpretation Technology of High Resolution Satellites in Shandong Province, Mount Taishan Meteorological Forum.
 
 # 💻 Datasets
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/skin.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**IRIP-SKINPATCH dataset**：The IRIP-SKINPATCH dataset is derived from ECU dataset and Compaq dataset. The Compaq dataset provides explicit nonskin images, while its ground truth data are less precise than samples in ECU. Thus, skin patches are randomly cropped from skin regions in ECU, and nonskin patches are selected from nonskin images of Compaq. The IRIP-SKINPATCH is classified into two subsets according to the patch sizes, i.e., 20 × 20 and 10 × 10. The image patches in each subset have been randomly divided into a training subset and testing subset. The amount of patches in the dataset is greater than 1.5 million. More detailes can be found in our paper [Patch-wise skin segmentation of human body parts via deep neural networks(PDF](../data/2015-patchwiseskin.pdf)
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hand.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **UJN-3M-HANDS**：Large-scale dataset is necessary for training of deep neural network-based hand gesture classification models. According to the requirements of human-interaction in virtual reality-oriented teaching environment, a large-scale depth-based hand gesture dataset was proposed. The dataset, named UJN-3M-HANDS, contained more than 3 million depth gesture samples. There are 17 static gestures and 34 dynamic gestures in UJN-3M-HANDS. Some static gesture samples were demonstrated in Figure. Compared with other data sets, UJN-3M-HANDS proposed is designed for specific teaching application scenarios, and the categories of gestures are consistent with those used in experimental teaching. In the stage of gesture collection, the distance between the camera and the collector is set to more than 2 meters. The advantage of UJN-3M-HANDS is that the gesture samples were acquired from 2000 individuals, while there are many replication samples in other datasets.
 </div>
