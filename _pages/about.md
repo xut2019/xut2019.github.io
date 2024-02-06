@@ -105,7 +105,7 @@ experimental results have demonstrated the effectiveness of our method.
 </div>
 </div>
 
-# 🎖 Faculty and Master Candidates
+# 🎖 Members
 - **Faculty** : Feng Zhiquan(PI), Xu Tao, Yang Xiaohui, Si Tongzhen, Guo Qingbei, Zhang Feng. 
 - **Master Candidates**:
   1. Lu Qiu, Yu Kunfeng, Li Wenshuo, Li Kaishuo, Li Mengyang;
