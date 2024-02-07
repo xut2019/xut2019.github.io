@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a associate professor with the [**School of Information Science and Engineering**](https://ise.ujn.edu.cn/), [University of Jinan](https://www.ujn.edu.cn/). I received the M.S. degree in computer science from China University of Petroleum, and the Ph.D. degree in computer science from [**IRIP Lab**](https://irip.buaa.edu.cn/), Beihang University. 
+**I am a associate professor with the [**School of Information Science and Engineering**](https://ise.ujn.edu.cn/), [University of Jinan](https://www.ujn.edu.cn/). I received the M.S. degree in computer science from China University of Petroleum, and the Ph.D. degree in computer science from [**IRIP Lab**](https://irip.buaa.edu.cn/), Beihang University.**
 
 My research interest includes **remote sensing image analysis**, **pattern recognition** and **human-computer interaction**. Most recently, I am interested in the following topics:
 - **Detection, Segmentation and Change Detection in Remote Sensing**.
