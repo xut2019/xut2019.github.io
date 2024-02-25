@@ -109,9 +109,8 @@ experimental results have demonstrated the effectiveness of our method.
 - **Faculty** : Feng Zhiquan(PI), Xu Tao, Yang Xiaohui, Si Tongzhen, Guo Qingbei, Zhang Feng. 
 - **Master Candidates**:
   1. Lu Qiu, Yu Kunfeng, Li Wenshuo, Li Kaishuo, Li Mengyang;
-  2. Xiao Chenxin, Zhang Han, Han Mingzhi, Zang Junyuan;
+  2. Xiao Chenxin, Zhang Han, Han Mingzhi, LiZhaoyu, Zang Junyuan;
   3. Zhu Guangze, Sun Jiahui, Zhai Yijing.
-- **Graduated**:Lu Zeshan, Shen Yuan, Li Yan
 
 # 💬 Invited Talks
 - *2022.11.23*, Research on the Application and Intelligent Interpretation Technology of High Resolution Satellites in Shandong Province, Mount Taishan Meteorological Forum.
