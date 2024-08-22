@@ -31,12 +31,12 @@ His research interest includes **remote sensing image analysis**, **deep learnin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSLetter</div><img src='images/2023grsl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSTARS </div><img src='images/mami-cd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks](https://ieeexplore.ieee.org/document/10373956)
+[MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction](https://ieeexplore.ieee.org/document/10640231)
 
-Mingzhi Han, **Tao Xu**, Jiwen Dong, Qingjie Liu, Xiaohui Yang
+Mingzhi Han, **Tao Xu**, Qingjie Liu, Xiaohui Yang, Feng Zhang, and Yongguo Shi
 - We introduce the MAM, which extracts spatial information of targets from feature maps across multiple encoding stages and transmits it to the decoding stage, thereby enhancing spatial correlations between targets and the saliency of changed targets in RS images.
 - We introduce the MIM, which employs channel-wise feature fusion processing to enhance spatial target correlation between the images. This approach replaces the traditional direct connection operation, effectively maintaining spatial connections between targets in bitemporal RS images.
 - Comprehensive experiments were conducted on public datasets, including LEVIR-CD, S2Looking, and CDD. The achieved SOTA performance on most metrics demonstrates the effectiveness of our method for CD tasks.
