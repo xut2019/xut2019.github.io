@@ -26,7 +26,7 @@ His research interest includes **remote sensing image analysis**, **deep learnin
 
 
 # 🔥 News
-- **2024.8.20**: &nbsp; One paper has been published by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**](https://ieeexplore.ieee.org/document/10640231).
+- **2024.8.20**: &nbsp; "MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction" has been published by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**](https://ieeexplore.ieee.org/document/10640231).
 - **2023.11.25**: &nbsp; One paper has been published by [**IEEE Geoscience and Remote Sensing Letters**](https://ieeexplore.ieee.org/document/10373956).
 
 # 📝 Publications 
@@ -43,6 +43,10 @@ Qiu Lu, **Tao Xu**, Jiwen Dong, Qingjie Liu, Xiaohui Yang
 experimental results have demonstrated the effectiveness of our method.
 </div>
 </div>
+
+- **2024**
+1.MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2024. (Early Access  SCI)
+2. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks[J]. **IEEE Geoscience and Remote Sensing Letters**, 2024, 21: 1-5. (SCI)
 
 - **2023**
 1. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks[J]. **IEEE Geoscience and Remote Sensing Letters**, 2024, 21: 1-5. (SCI)
