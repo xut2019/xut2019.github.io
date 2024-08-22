@@ -44,6 +44,19 @@ experimental results have demonstrated the effectiveness of our method.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSLetter</div><img src='images/2023grsl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks](https://ieeexplore.ieee.org/document/10373956)
+
+Qiu Lu, **Tao Xu**, Jiwen Dong, Qingjie Liu, Xiaohui Yang
+- A self-supervised adaptive fusion network (SSAFN) is designed to enhance the feature representation of objects by suppressing complex background.
+- To validate the generic capability of SSAFN, we integrated SSAFN into multiple detection networks and observe consistent improvements.
+- We have conducted comparison experiments with other mainstream detection methods on SSDD, SAR-Ship Dataset and 5M-building dataset respectively, and the
+experimental results have demonstrated the effectiveness of our method.
+</div>
+</div>
+
 - **2024**
 1. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2024. (Early Access  SCI)
 2. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks[J]. **IEEE Geoscience and Remote Sensing Letters**, 2024, 21: 1-5. (SCI)
