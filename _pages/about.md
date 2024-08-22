@@ -70,7 +70,7 @@ experimental results have demonstrated the effectiveness of our method.
 7. Li M, **Xu T**, Chen X, et al. Design of 120GHZ FMCW Radar Liquid Level Measurement System[C]. 2023 5th International Conference on Intelligent Control, Measurement and Signal Processing (ICMSP). IEEE, 2023: 755-758. (EI)
 8. Li M, **Xu T**, Chen X, et al. Research on algorithm of FMCW radar level gauge[C]. 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT). IEEE, 2023: 270-274. (EI)
 9. SE-UNet: Channel Attention based UNet for Water body Segmentation from SAR Image[C]
-10. Variable Scale Gesture Recognition: A Dataset and Comprehensive Analysis[C]
+10. Z. Li,**T. Xu**, X. Yang, J. Sun and G. Zhu, "Variable Scale Gesture Recognition: A Dataset and Comprehensive Analysis," 2023 3rd International Conference on Robotics, Automation and Intelligent Control (ICRAIC), Zhangjiajie, China, 2023, pp. 110-114.
 
 - **2022**
 1. Li W, **Xu T**, Wang Y, et al. UJN-SAR: A Large Dataset with Experimental Analysis for Water Body Segmentation from SAR Images[C]. International Conference on Image, Vision and Intelligent Systems. Singapore: Springer Nature Singapore, 2022: 227-238. (EI)
