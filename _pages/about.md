@@ -61,17 +61,16 @@ experimental results have demonstrated the effectiveness of our method.
 2. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks[J]. **IEEE Geoscience and Remote Sensing Letters**, 2024, 21: 1-5. (SCI)
 
 - **2023**
-1. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks[J]. **IEEE Geoscience and Remote Sensing Letters**, 2024, 21: 1-5. (SCI)
-2. Huang Z, Liu Q, Zhou H, et al. Building Detection From Panchromatic and Multispectral Images With Dual-Stream Asymmetric Fusion Networks[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTARS)**, 2023, 16: 3364-3377. (SCI)
-3. Yu K, Zhang Y, Hou B, et al. Large Window Attention Based Transformer Network for Change Detection of Remote Sensing Images[C]. **International Conference on Image and Graphics(ICIG)**. Cham: Springer Nature Switzerland, 2023: 308-319. (EI)
-4. Han M, Liu L, **Xu T**, et al. Non-Agricultural Change Detection in Multi-Scale and Multi-Season Remote Sensing Images[C]. 2023 16th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). IEEE, 2023: 1-5. (EI)
-5. Zang J, Zhang Y, **Xu T**, et al. Introduction and Analysis of M-TSLand: A Multi-Temporal and Multi-Scale Remote Sensing Farmland Dataset[C]. Proceedings of the 2023 6th International Conference on Big Data Technologies(ICBDT). 2023: 151-157. (EI)
-6. Xiao C, Liu L, Xie G, et al. A large dataset with CNN-based segmentation analysis for land cover from large river basins[C]. 2023 16th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). IEEE, 2023: 1-5. (EI)
-7. Zhang H, Bi M, **Xu T**, et al. A multi-scale dataset with comprehensive analysis for building detection from remote sensing images[C]. 2023 16th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). IEEE, 2023: 1-5. (EI)
-8. Li M, **Xu T**, Chen X, et al. Design of 120GHZ FMCW Radar Liquid Level Measurement System[C]. 2023 5th International Conference on Intelligent Control, Measurement and Signal Processing (ICMSP). IEEE, 2023: 755-758. (EI)
-9. Li M, **Xu T**, Chen X, et al. Research on algorithm of FMCW radar level gauge[C]. 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT). IEEE, 2023: 270-274. (EI)
-10. SE-UNet: Channel Attention based UNet for Water body Segmentation from SAR Image[C]
-11. Variable Scale Gesture Recognition: A Dataset and Comprehensive Analysis[C]
+1. Huang Z, Liu Q, Zhou H, et al. Building Detection From Panchromatic and Multispectral Images With Dual-Stream Asymmetric Fusion Networks[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTARS)**, 2023, 16: 3364-3377. (SCI)
+2. Yu K, Zhang Y, Hou B, et al. Large Window Attention Based Transformer Network for Change Detection of Remote Sensing Images[C]. **International Conference on Image and Graphics(ICIG)**. Cham: Springer Nature Switzerland, 2023: 308-319. (EI)
+3. Han M, Liu L, **Xu T**, et al. Non-Agricultural Change Detection in Multi-Scale and Multi-Season Remote Sensing Images[C]. 2023 16th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). IEEE, 2023: 1-5. (EI)
+4. Zang J, Zhang Y, **Xu T**, et al. Introduction and Analysis of M-TSLand: A Multi-Temporal and Multi-Scale Remote Sensing Farmland Dataset[C]. Proceedings of the 2023 6th International Conference on Big Data Technologies(ICBDT). 2023: 151-157. (EI)
+5. Xiao C, Liu L, Xie G, et al. A large dataset with CNN-based segmentation analysis for land cover from large river basins[C]. 2023 16th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). IEEE, 2023: 1-5. (EI)
+6. Zhang H, Bi M, **Xu T**, et al. A multi-scale dataset with comprehensive analysis for building detection from remote sensing images[C]. 2023 16th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). IEEE, 2023: 1-5. (EI)
+7. Li M, **Xu T**, Chen X, et al. Design of 120GHZ FMCW Radar Liquid Level Measurement System[C]. 2023 5th International Conference on Intelligent Control, Measurement and Signal Processing (ICMSP). IEEE, 2023: 755-758. (EI)
+8. Li M, **Xu T**, Chen X, et al. Research on algorithm of FMCW radar level gauge[C]. 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT). IEEE, 2023: 270-274. (EI)
+9. SE-UNet: Channel Attention based UNet for Water body Segmentation from SAR Image[C]
+10. Variable Scale Gesture Recognition: A Dataset and Comprehensive Analysis[C]
 
 - **2022**
 1. Li W, **Xu T**, Wang Y, et al. UJN-SAR: A Large Dataset with Experimental Analysis for Water Body Segmentation from SAR Images[C]. International Conference on Image, Vision and Intelligent Systems. Singapore: Springer Nature Singapore, 2022: 227-238. (EI)
