@@ -26,10 +26,8 @@ His research interest includes **remote sensing image analysis**, **deep learnin
 
 
 # 🔥 News
-- **2023.11.25**: &nbsp; One paper has been published by [**IEEE Geoscience and Remote Sensing Letters**](https://ieeexplore.ieee.org/document/10373956), Congratulations to Lu Qiu!
-- **2023.8.23**: &nbsp; One paper has been accepted by **ICBDT2023**, Congratulations to JunYuan!
-- **2023.6.16**: &nbsp; One paper has been accepted by **ICIG2023**, Congratulations to KunFeng!
-- *2022.10.22*: &nbsp; Three papers have been accepted by LSMS 2021&ICSEE2022. 
+- **2024.8.20**: &nbsp; One paper has been published by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**](https://ieeexplore.ieee.org/document/10640231).
+- **2023.11.25**: &nbsp; One paper has been published by [**IEEE Geoscience and Remote Sensing Letters**](https://ieeexplore.ieee.org/document/10373956).
 
 # 📝 Publications 
 
