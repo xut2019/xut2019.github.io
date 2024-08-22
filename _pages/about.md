@@ -36,11 +36,10 @@ His research interest includes **remote sensing image analysis**, **deep learnin
 
 [Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks](https://ieeexplore.ieee.org/document/10373956)
 
-Qiu Lu, **Tao Xu**, Jiwen Dong, Qingjie Liu, Xiaohui Yang
-- A self-supervised adaptive fusion network (SSAFN) is designed to enhance the feature representation of objects by suppressing complex background.
-- To validate the generic capability of SSAFN, we integrated SSAFN into multiple detection networks and observe consistent improvements.
-- We have conducted comparison experiments with other mainstream detection methods on SSDD, SAR-Ship Dataset and 5M-building dataset respectively, and the
-experimental results have demonstrated the effectiveness of our method.
+Mingzhi Han, **Tao Xu**, Jiwen Dong, Qingjie Liu, Xiaohui Yang
+- We introduce the MAM, which extracts spatial information of targets from feature maps across multiple encoding stages and transmits it to the decoding stage, thereby enhancing spatial correlations between targets and the saliency of changed targets in RS images.
+- We introduce the MIM, which employs channel-wise feature fusion processing to enhance spatial target correlation between the images. This approach replaces the traditional direct connection operation, effectively maintaining spatial connections between targets in bitemporal RS images.
+- Comprehensive experiments were conducted on public datasets, including LEVIR-CD, S2Looking, and CDD. The achieved SOTA performance on most metrics demonstrates the effectiveness of our method for CD tasks.
 </div>
 </div>
 
