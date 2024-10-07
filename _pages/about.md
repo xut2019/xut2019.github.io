@@ -22,7 +22,6 @@ redirect_from:
 His research interest includes **remote sensing image analysis**, **deep learning** and **human-computer interaction**. Most recently, he is interested in the following topics:
 - **Detection, Segmentation and Change Detection in Remote Sensing**.
 - **Multi-Modal based  Human-Robot Interaction**.
-- **WebGIS System Development**.
 
 
 # 🔥 News
