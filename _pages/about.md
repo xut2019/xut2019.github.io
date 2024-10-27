@@ -57,8 +57,9 @@ experimental results have demonstrated the effectiveness of our method.
 </div>
 
 - **2024**
-1. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2024. (Early Access  SCI)
-2. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks[J]. **IEEE Geoscience and Remote Sensing Letters**, 2024, 21: 1-5. (SCI)
+1. Han M, **Xu T**, Liu Q, et al. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2024,17:14908-14918. (SCI)
+2. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks[J]. **IEEE Geoscience and Remote Sensing Letters**, 2024, 21:1-5. (SCI)
+3. Jiahui Sun，**Tao Xu**，Zhaoyu Li, et al. ARHands: A Hand Gesture Dataset with HCI in Augmented Reality Surgery[C]. The 6th International Conference on Frontier Technologies of Information and Computer (ICFTIC 2024).(Accepted)
 
 - **2023**
 1. Huang Z, Liu Q, Zhou H, et al. Building Detection From Panchromatic and Multispectral Images With Dual-Stream Asymmetric Fusion Networks[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTARS)**, 2023, 16: 3364-3377. (SCI)
