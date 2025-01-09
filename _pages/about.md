@@ -38,8 +38,7 @@ Research interest includes **remote sensing image analysis**, **deep learning** 
  Mingzhi Han, **Tao Xu**,Qingjie Liu, Xiaohui Yang, Jing Wang, and Jiaqi Kong
 - We propose a HFIFM, which achieves optimized multichannel feature interaction and enhances the distinguishability between weak targets, background, and unchanged targets. Simultaneously, the module also enhances the representation and compensates for the loss of spatial feature of changed targets at a single scale by integrating cross scale feature fusion.
 - We employ a VMB and propose a SFLM to enhance thesaliency of spatial features extracted by the VMB. The distinguishability between weak targets and irrelevant spatial features is further improved through the global feature perception capability of the VMB.
-- We have conducted comparison experiments with other mainstream detection methods on SSDD, SAR-Ship Dataset and 5M-building dataset respectively, and the
-experimental results have demonstrated the effectiveness of our method.
+- Comprehensive experiments on the LEVIR-CD, S2Looking and NALand datasets demonstrate the effectiveness of our method for CD tasks, achieving state-of-the-art (SOTA) performance on most metrics.
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSTARS </div><img src='images/mami-cd.png' alt="sym" width="100%"></div></div>
