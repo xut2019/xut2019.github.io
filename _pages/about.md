@@ -25,8 +25,8 @@ Research interest includes **remote sensing image analysis**, **deep learning** 
 
 
 # 🔥 News
+- **2025.1.8**: &nbsp;Our paper, "HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection" has been accepted by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**].
 - **2024.10.24**: &nbsp;One paper was accepted by ICFTIC 2024(paper title: ARHands: A Hand Gesture Dataset with HCI in Augmented Reality Surgery).
-- **2024.8.20**: &nbsp;Our paper, "MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction" has been published by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**](https://ieeexplore.ieee.org/document/10640231).
 
 # 📝 Publications 
 
@@ -54,6 +54,9 @@ Qiu Lu, **Tao Xu**, Jiwen Dong, Qingjie Liu, Xiaohui Yang
 experimental results have demonstrated the effectiveness of our method.
 </div>
 </div>
+
+- **2025**
+1. Han M, **Xu T**, Liu Q, et al. HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2025. Accepted. (SCI)
 
 - **2024**
 1. Han M, **Xu T**, Liu Q, et al. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2024,17:14908-14918. (SCI)
