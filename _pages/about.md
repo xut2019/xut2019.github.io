@@ -30,7 +30,7 @@ Research interest includes **remote sensing image analysis**, **deep learning** 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSLetter</div><img src='images/HFIFNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSTARS</div><img src='images/HFIFNET.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection]
