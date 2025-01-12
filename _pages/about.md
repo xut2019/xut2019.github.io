@@ -54,7 +54,7 @@ Mingzhi Han, **Tao Xu**, Qingjie Liu, Xiaohui Yang, Feng Zhang, and Yongguo Shi
 </div>
 
 - **2025**
-1. Han M, **Xu T**, Liu Q, et al. HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2025. Accepted. (SCI)
+1. Han M, **Xu T**, Liu Q, et al. HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2025.  Early Access. (SCI)
 
 - **2024**
 1. Han M, **Xu T**, Liu Q, et al. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2024,17:14908-14918. (SCI)
