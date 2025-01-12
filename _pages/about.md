@@ -25,7 +25,7 @@ Research interest includes **remote sensing image analysis**, **deep learning** 
 
 
 # 🔥 News
-- **2025.1.8**: &nbsp;Our paper, "HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection" has been accepted by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**].
+- **2025.1.8**: &nbsp;Our paper, "HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection" has been accepted by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**](https://ieeexplore.ieee.org/document/10836868).
 - **2024.10.24**: &nbsp;One paper was accepted by ICFTIC 2024(paper title: ARHands: A Hand Gesture Dataset with HCI in Augmented Reality Surgery).
 
 # 📝 Publications 
@@ -33,7 +33,7 @@ Research interest includes **remote sensing image analysis**, **deep learning** 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSTARS</div><img src='images/HFIFNET.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection]
+[HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection](https://ieeexplore.ieee.org/document/10836868)
 
  Mingzhi Han, **Tao Xu**,Qingjie Liu, Xiaohui Yang, Jing Wang, and Jiaqi Kong
 - We propose a HFIFM, which achieves optimized multichannel feature interaction and enhances the distinguishability between weak targets, background, and unchanged targets. Simultaneously, the module also enhances the representation and compensates for the loss of spatial feature of changed targets at a single scale by integrating cross scale feature fusion.
