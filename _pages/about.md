@@ -25,7 +25,7 @@ Research interest includes **remote sensing image analysis**, **deep learning** 
 
 
 # 🔥 News
-- **2025.1.8**: &nbsp;Our paper, "HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection" has been accepted by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**](https://ieeexplore.ieee.org/document/10836868).
+- **2025.1.8**: &nbsp;Our paper, "HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection" has been published by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**](https://ieeexplore.ieee.org/document/10836868).
 - **2024.10.24**: &nbsp;One paper was accepted by ICFTIC 2024(paper title: ARHands: A Hand Gesture Dataset with HCI in Augmented Reality Surgery).
 
 # 📝 Publications 
