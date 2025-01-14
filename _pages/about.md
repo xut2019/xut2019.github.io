@@ -19,8 +19,8 @@ redirect_from:
 
 **Xu Tao (徐 涛 ) is associate professor with the [School of Information Science and Engineering](https://ise.ujn.edu.cn/), [University of Jinan](https://www.ujn.edu.cn/)(济南大学). He received the M.S. degree in computer science from China University of Petroleum(中国石油大学), and the Ph.D. degree in computer science from [IRIP Lab](https://irip.buaa.edu.cn/), Beihang University(北京航空航天大学).**
 
-Research interest includes **remote sensing image analysis**, **deep learning** and **human-computer interaction**. Most recently, I am interested in the following topics:
-- **Detection, Segmentation and Change Detection in Remote Sensing**.
+Research interest includes **remote sensing image analysis** and **human-computer interaction**, especially interested in the following topics:
+- **Detection, Segmentation and Change Detection from Remote Sensing images**.
 - **Multi-Modal based  Human-Robot Interaction**.
 
 
