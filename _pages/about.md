@@ -41,17 +41,6 @@ Research interest includes **remote sensing image analysis** and **human-compute
 - Comprehensive experiments on the LEVIR-CD, S2Looking and NALand datasets demonstrate the effectiveness of our method for CD tasks, achieving state-of-the-art (SOTA) performance on most metrics.
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSTARS </div><img src='images/mami-cd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction](https://ieeexplore.ieee.org/document/10640231)
-
-Mingzhi Han, **Tao Xu**, Qingjie Liu, Xiaohui Yang, Feng Zhang, and Yongguo Shi
-- We introduce the MAM, which extracts spatial information of targets from feature maps across multiple encoding stages and transmits it to the decoding stage, thereby enhancing spatial correlations between targets and the saliency of changed targets in RS images.
-- We introduce the MIM, which employs channel-wise feature fusion processing to enhance spatial target correlation between the images. This approach replaces the traditional direct connection operation, effectively maintaining spatial connections between targets in bitemporal RS images.
-- Comprehensive experiments were conducted on public datasets, including LEVIR-CD, S2Looking, and CDD. The achieved SOTA performance on most metrics demonstrates the effectiveness of our method for CD tasks.
-</div>
-</div>
 
 - **2025**
 1. Han M, **Xu T**, Liu Q, et al. HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2025.  Early Access. (SCI)
