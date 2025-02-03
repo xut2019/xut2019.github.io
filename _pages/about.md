@@ -43,10 +43,10 @@ Research interest includes **remote sensing image analysis** and **human-compute
 </div>
 
 - **2025**
-1. Han M, **Xu T**, Liu Q, et al. HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2025.  Early Access. (SCI)
+1. Han M, **Xu T**, Liu Q, et al. HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2025, 18:4318-4330. (SCI)
 
 - **2024**
-1. Han M, **Xu T**, Liu Q, et al. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2024,17:14908-14918. (SCI)
+1. Han M, **Xu T**, Liu Q, et al. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2024, 17:14908-14918. (SCI)
 2. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks[J]. **IEEE Geoscience and Remote Sensing Letters**, 2024, 21:1-5. (SCI)
 3. Jiahui Sun，**Tao Xu**，Zhaoyu Li, et al. ARHands: A Hand Gesture Dataset with HCI in Augmented Reality Surgery[C]. The 6th International Conference on Frontier Technologies of Information and Computer (ICFTIC 2024).(Accepted)
 
