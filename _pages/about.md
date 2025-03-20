@@ -46,6 +46,8 @@ Research interest includes **remote sensing image analysis** and **human-compute
 
 - **2025**
 1. Han M, **Xu T**, Liu Q, et al. HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2025, 18:4318-4330. (SCI)
+2. Han Zhang, Tao Xu, Xiaohui Yang, Yuqian Zhang, Chenxin Xiao. Group Convolution Attention based Multi-Scale Object Detection of Remote Sensing Images[C]. IGARSS 2025, Accepted.
+3. Chenxin Xiao, Tao Xu, Xiaohui Yang, Wenjun Kang, Junyuan Zang. EANV: An Edge Attention Network with VMamba Block for Semantic Segmentation from Remote Sensing Images[C]. IGARSS 2025, Accepted.
 
 - **2024**
 1. Han M, **Xu T**, Liu Q, et al. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**,2024, 17:14908-14918. (SCI)
