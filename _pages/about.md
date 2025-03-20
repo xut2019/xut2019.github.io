@@ -25,8 +25,10 @@ Research interest includes **remote sensing image analysis** and **human-compute
 
 
 # 🔥 News
+
+- **2025.3.20**: &nbsp;Two papers have been accepted by IGARSS 2025. Congratulations to Zhang han and Chen xin!
 - **2025.1.8**: &nbsp;Our paper, "HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection" has been published by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**](https://ieeexplore.ieee.org/document/10836868).
-- **2024.10.24**: &nbsp;One paper was accepted by ICFTIC 2024(paper title: ARHands: A Hand Gesture Dataset with HCI in Augmented Reality Surgery).
+
 
 # 📝 Publications 
 
