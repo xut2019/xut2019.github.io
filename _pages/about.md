@@ -47,9 +47,11 @@ Research interest includes **remote sensing image analysis** and **human-compute
 
 - **2025**
 1. Han M, **Xu T**, Liu Q, et al. HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**,2025, 18:4318-4330. (SCI)
-2. Han Zhang, Tao Xu, Xiaohui Yang, Yuqian Zhang, Chenxin Xiao. Group Convolution Attention based Multi-Scale Object Detection of Remote Sensing Images[C]. IGARSS 2025, Accepted.
-3. Chenxin Xiao, Tao Xu, Xiaohui Yang, Wenjun Kang, Junyuan Zang. EANV: An Edge Attention Network with VMamba Block for Semantic Segmentation from Remote Sensing Images[C]. IGARSS 2025, Accepted.
-
+2. Han Zhang, **Tao Xu**, Xiaohui Yang, Yuqian Zhang, Chenxin Xiao. Group Convolution Attention based Multi-Scale Object Detection of Remote Sensing Images[C]. IGARSS 2025, Accepted.
+3. Chenxin Xiao, **Tao Xu**, Xiaohui Yang, Wenjun Kang, Junyuan Zang. EANV: An Edge Attention Network with VMamba Block for Semantic Segmentation from Remote Sensing Images[C]. IGARSS 2025, Accepted.
+4. Junyuan Zang , **Tao Xu**, Xiaohui Yang , Yuqian Zhang and Wenjun Kang. MSD-SEG?Multi-scale Deformable Convolution Network for Segmentation of Remote Sensing Images[C]. ICIC 2025, Accepted.
+5. Yijing Zhai, **Tao Xu**, Yuqian Zhang, Baozhu Wan. Curriculum-Learned Masked Pretraining Models For Remote Sensing Building Detection[C]. ICIC 2025, Accepted.
+ 
 - **2024**
 1. Han M, **Xu T**, Liu Q, et al. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**,2024, 17:14908-14918. (SCI)
 2. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks[J]. **IEEE Geoscience and Remote Sensing Letters(GRSL)**, 2024, 21:1-5. (SCI)
