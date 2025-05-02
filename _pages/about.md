@@ -46,19 +46,19 @@ Research interest includes **remote sensing image analysis** and **human-compute
 </div>
 
 - **2025**
-1. Han M, **Xu T**, Liu Q, et al. HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**,2025, 18:4318-4330. (SCI)
+1. Han M, **Xu T**, Liu Q, et al. HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection(https://ieeexplore.ieee.org/document/10836868)[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**,2025, 18:4318-4330. (SCI)
 2. Han Zhang, **Tao Xu**, Xiaohui Yang, Yuqian Zhang, Chenxin Xiao. Group Convolution Attention based Multi-Scale Object Detection of Remote Sensing Images[C]. IGARSS 2025, Accepted.
 3. Chenxin Xiao, **Tao Xu**, Xiaohui Yang, Wenjun Kang, Junyuan Zang. EANV: An Edge Attention Network with VMamba Block for Semantic Segmentation from Remote Sensing Images[C]. IGARSS 2025, Accepted.
 4. Junyuan Zang , **Tao Xu**, Xiaohui Yang , Yuqian Zhang and Wenjun Kang. MSD-SEG: Multi-scale Deformable Convolution Network for Segmentation of Remote Sensing Images[C]. ICIC 2025, Accepted.
 5. Yijing Zhai, **Tao Xu**, Yuqian Zhang, Baozhu Wan. Curriculum-Learned Masked Pretraining Models For Remote Sensing Building Detection[C]. ICIC 2025, Accepted.
  
 - **2024**
-1. Han M, **Xu T**, Liu Q, et al. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**,2024, 17:14908-14918. (SCI)
-2. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks[J]. **IEEE Geoscience and Remote Sensing Letters(GRSL)**, 2024, 21:1-5. (SCI)
+1. Han M, **Xu T**, Liu Q, et al. MAMI-CD: Multi-stage Attention Network for Change Detection with Mixed Feature Interaction(https://ieeexplore.ieee.org/abstract/document/10640231)[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**,2024, 17:14908-14918. (SCI)
+2. Q. Lu, **T. Xu**, J. Dong, Q. Liu and X. Yang. Improving Object Detection from Remote Sensing Images via Self-supervised Adaptive Fusion Networks(https://ieeexplore.ieee.org/abstract/document/10373956)[J]. **IEEE Geoscience and Remote Sensing Letters(GRSL)**, 2024, 21:1-5. (SCI)
 3. Jiahui Sun，**Tao Xu**，Zhaoyu Li, et al. ARHands: A Hand Gesture Dataset with HCI in Augmented Reality Surgery[C]. 2024 6th International Conference on Frontier Technologies of Information and Computer (ICFTIC), Qingdao, China, 2024:914-917.
 
 - **2023**
-1. Huang Z, Liu Q, Zhou H, et al. Building Detection From Panchromatic and Multispectral Images With Dual-Stream Asymmetric Fusion Networks[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**, 2023, 16: 3364-3377. (SCI)
+1. Huang Z, Liu Q, Zhou H, et al. Building Detection From Panchromatic and Multispectral Images With Dual-Stream Asymmetric Fusion Networks(https://ieeexplore.ieee.org/abstract/document/10081347)[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**, 2023, 16: 3364-3377. (SCI)
 2. Yu K, Zhang Y, Hou B, et al. Large Window Attention Based Transformer Network for Change Detection of Remote Sensing Images[C]. **International Conference on Image and Graphics(ICIG)**. Cham: Springer Nature Switzerland, 2023: 308-319. (EI)
 3. Han M, Liu L, **Xu T**, et al. Non-Agricultural Change Detection in Multi-Scale and Multi-Season Remote Sensing Images[C]. 2023 16th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). IEEE, 2023: 1-5. (EI)
 4. Zang J, Zhang Y, **Xu T**, et al. Introduction and Analysis of M-TSLand: A Multi-Temporal and Multi-Scale Remote Sensing Farmland Dataset[C]. Proceedings of the 2023 6th International Conference on Big Data Technologies(ICBDT). 2023: 151-157. (EI)
