@@ -21,7 +21,7 @@ redirect_from:
 
 Research interest includes **remote sensing image analysis** and **human-computer interaction**, especially interested in the following topics:
 - **Detection, Segmentation and Change Detection from Remote Sensing images**.
-- **Multi-Modal based  Human-Robot Interaction**.
+- **Human-Robot Interaction**.
 
 
 # 🔥 News
