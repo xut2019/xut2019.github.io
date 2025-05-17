@@ -20,16 +20,14 @@ redirect_from:
 **Xu Tao (徐 涛 ) is associate professor with the [School of Information Science and Engineering](https://ise.ujn.edu.cn/), [University of Jinan](https://www.ujn.edu.cn/)(济南大学). He received the M.S. degree in computer science from China University of Petroleum(中国石油大学), and the Ph.D. degree in computer science from [IRIP Lab](https://irip.buaa.edu.cn/), Beihang University(北京航空航天大学).**
 
 Research interest includes **remote sensing image analysis** and **human-computer interaction**, especially interested in the following topics:
+- **Embodied Intelligence and Human-Robot Interaction**.
 - **Detection, Segmentation and Change Detection from Remote Sensing images**.
-- **Human-Robot Interaction**.
 
 
 # 🔥 News
 
 - **2025.4.30**: &nbsp;Two papers have been accepted by ICIC 2025.
 - **2025.3.20**: &nbsp;Two papers have been accepted by IGARSS 2025.
-- **2025.1.8**: &nbsp;Our paper, "HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection" has been published by [**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**](https://ieeexplore.ieee.org/document/10836868).
-
 
 # 📝 Publications 
 
