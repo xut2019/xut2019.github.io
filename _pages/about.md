@@ -45,8 +45,8 @@ Research interest includes **remote sensing image analysis** and **human-compute
 
 - **2025**
 1. Han M, **Xu T**, Liu Q, et al. [HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection](https://ieeexplore.ieee.org/document/10836868)[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**,2025, 18:4318-4330. (SCI) [code](https://github.com/Han-MZ/HFIFNet)
-2. Han Zhang, **Tao Xu**, Xiaohui Yang, Yuqian Zhang, Chenxin Xiao. Group Convolution Attention based Multi-Scale Object Detection of Remote Sensing Images[C]. IGARSS 2025, Accepted.
-3. Chenxin Xiao, **Tao Xu**, Xiaohui Yang, Wenjun Kang, Junyuan Zang. EANV: An Edge Attention Network with VMamba Block for Semantic Segmentation from Remote Sensing Images[C]. IGARSS 2025, Accepted.
+2. Han Zhang, **Tao Xu**, Xiaohui Yang, Yuqian Zhang, Chenxin Xiao. Group Convolution Attention based Multi-Scale Object Detection of Remote Sensing Images[C]. 2025 IEEE International Geoscience and Remote Sensing Symposium（IGARSS 2025）, Brisbane, Australia, 2025: 6031-6035.
+3. Chenxin Xiao, **Tao Xu**, Xiaohui Yang, Wenjun Kang, Junyuan Zang. EANV: An Edge Attention Network with VMamba Block for Semantic Segmentation from Remote Sensing Images[C]. 2025 IEEE International Geoscience and Remote Sensing Symposium（IGARSS 2025）, Brisbane, Australia, 2025: 2131-2135.
 4. Junyuan Zang , **Tao Xu**, Xiaohui Yang , Yuqian Zhang and Wenjun Kang. MSD-SEG: Multi-scale Deformable Convolution Network for Segmentation of Remote Sensing Images[C]. International Conference on Intelligent Computing(ICIC2025). Singapore: Springer Nature Singapore, 2025: 278-290.
 5. Yijing Zhai, **Tao Xu**, Yuqian Zhang, Baozhu Wan. Curriculum-Learned Masked Pretraining Models for Remote Sensing Building Detection[C]. International Conference on Intelligent Computing(ICIC2025). Singapore: Springer Nature Singapore, 2025: 304-315.
  
