@@ -121,8 +121,8 @@ Research interest includes **remote sensing image analysis** and **human-compute
   3. Tian Qizong, Zhang Hao, Zhiyu Guo.
 
 # 💬 Invited Talks
+- *2025.11.22*, Brain-Like Computing and Artificial Intelligence Applications（类脑计算与人工智能应用）, MShandong Neuroscience Society Yihe Forum（山东省神经科学学会沂河论坛）.
 - *2022.11.23*, Research on the Application and Intelligent Interpretation Technology of High Resolution Satellites in Shandong Province, Mount Taishan Meteorological Forum.
-
 # 💻 Datasets
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hand.png' alt="sym" width="70%"></div></div>
