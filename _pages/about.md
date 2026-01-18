@@ -26,8 +26,7 @@ Research interest includes **remote sensing image analysis** and **human-compute
 
 # 🔥 News
 
-- **2025.4.30**: &nbsp;Two papers have been accepted by ICIC 2025.
-- **2025.3.20**: &nbsp;Two papers have been accepted by IGARSS 2025.
+- **2026.1.18**: &nbsp;One papers have been accepted by ICASSP 2026.
 
 # 📝 Publications 
 
@@ -42,6 +41,9 @@ Research interest includes **remote sensing image analysis** and **human-compute
 - Comprehensive experiments on the LEVIR-CD, S2Looking and NALand datasets demonstrate the effectiveness of our method for CD tasks, achieving state-of-the-art (SOTA) performance on most metrics.
 </div>
 </div>
+
+- **2026**
+1. Jiahui Sun, Tao Xu, Xiaohui Yang, Tongzhen Si, Xiaoli Liu. Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance[C]. **ICASSP 2026**, Accepted.
 
 - **2025**
 1. Han M, **Xu T**, Liu Q, et al. [HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection](https://ieeexplore.ieee.org/document/10836868)[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**,2025, 18:4318-4330. (SCI) [code](https://github.com/Han-MZ/HFIFNet)
