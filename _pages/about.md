@@ -44,7 +44,7 @@ Research interest includes **remote sensing image analysis** and **human-compute
 </div>
 
 - **2026**
-1. Jiahui Sun, **Tao Xu**, Xiaohui Yang, Tongzhen Si, Xiaoli Liu. Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance[C]. **ICASSP 2026**- 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026:12942-12946.(CCF-B) ([https://github.com/Han-MZ/HFIFNet](https://ieeexplore.ieee.org/document/11462313))
+1. Jiahui Sun, **Tao Xu**, Xiaohui Yang, Tongzhen Si, Xiaoli Liu. [Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance](https://ieeexplore.ieee.org/document/11462313)[C]. **ICASSP 2026**- 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026:12942-12946.(CCF-B) 
 2. Hao Zhang, **Tao Xu**, et al.FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection[C].**IJCNN 2026**, Accepted.
 
 - **2025**
