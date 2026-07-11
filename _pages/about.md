@@ -36,13 +36,11 @@ Research interest includes **remote sensing image analysis** and **human-compute
 
 Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding
 -  We introduce Geo-BC, a large-scale, preference-aligned multimodal benchmark that reframes change analysis as structured change interpretation rather than caption generation. The benchmark contains 109224 spatiotemporal samples, supplemented by 327672 reasoning clues and 382284 review comments, enabling process-level supervision beyond final-answer evaluation, as well as a curated Pro subset for challenging evaluation.
--  Geo-BC provides language-grounded reasoning trajectories, hard negative supervision for pseudo-change rejection, uncertainty-aware confidence annotations, and chosen/rejected preference pairs that support supervised fine-tuning, reward modeling, preference optimization, and fine-grained error diagnosis.
--  We further establish baseline results across representative multimodal large models, highlighting the persistent difficulty of structured geo-world understanding. By focusing on the under-explored problem of semantically grounded change reasoning, Geo-BC provides critical data infrastructure to support the development of geospatial semantic spatiotemporal understanding..
+-  Geo-BC provides language-grounded reasoning trajectories, hard negative supervision for pseudo-change rejection, uncertainty-aware confidence annotations, and chosen/rejected preference pairs that support supervised fine-tuning, reward modeling, preference optimization, and fine-grained error diagnosis. Geo-BC also provides critical data infrastructure to support the development of geospatial semantic spatiotemporal understanding.
 </div>
 </div>
 
 - **2026**
-
 1. Jiaqi Kong, Yiqun Niu, **Tao Xu**, Qingjie Liu, Xiaohui Yang. Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding[C].**ACM MM 2026**, Accepted.(CCF-A)
 2. Jiahui Sun, **Tao Xu**, Xiaohui Yang, Tongzhen Si, Xiaoli Liu. [Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance](https://ieeexplore.ieee.org/document/11462313)[C]. **ICASSP 2026**- 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026:12942-12946.(CCF-B) 
 3. Hao Zhang, **Tao Xu**, et al.FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection[C].**IJCNN 2026**, Accepted.(CCF-C)
