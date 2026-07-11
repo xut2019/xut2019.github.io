@@ -26,27 +26,29 @@ Research interest includes **remote sensing image analysis** and **human-compute
 
 # 🔥 News
 
+- **2026.7.10**: &nbsp;Our paper "Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding" has been accepted by ACM MM 2026(**CCF-A**). Congratulations to Jiaqi and Yiqun!
 - **2026.3.21**: &nbsp;Our paper "FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection" has been accepted by IJCNN 2026(CCF-C).
-- **2026.1.18**: &nbsp;Our paper "Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance" has been accepted by ICASSP 2026(CCF-B).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSTARS</div><img src='images/HFIFNET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/geobc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection](https://ieeexplore.ieee.org/document/10836868)
+Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding
 
- Mingzhi Han, **Tao Xu**,Qingjie Liu, Xiaohui Yang, Jing Wang, and Jiaqi Kong
-- We propose a HFIFM, which achieves optimized multichannel feature interaction and enhances the distinguishability between weak targets, background, and unchanged targets. Simultaneously, the module also enhances the representation and compensates for the loss of spatial feature of changed targets at a single scale by integrating cross scale feature fusion.
-- We employ a VMB and propose a SFLM to enhance thesaliency of spatial features extracted by the VMB. The distinguishability between weak targets and irrelevant spatial features is further improved through the global feature perception capability of the VMB.
-- Comprehensive experiments on the LEVIR-CD, S2Looking and NALand datasets demonstrate the effectiveness of our method for CD tasks, achieving state-of-the-art (SOTA) performance on most metrics.
+Jiaqi Kong, Yiqun Niu, **Tao Xu**, Qingjie Liu, Xiaohui Yang
+-  We introduce Geo-BC, a large-scale, preference-aligned multimodal benchmark that reframes change analysis as structured change interpretation rather than caption generation. The benchmark contains 109224 spatiotemporal samples, supplemented by 327672 reasoning clues and 382284 review comments, enabling process-level supervision beyond final-answer evaluation, as well as a curated Pro subset for challenging evaluation.
+-  In addition to benchmark instances, Geo-BC provides language-grounded reasoning trajectories, hard negative supervision for pseudo-change rejection, uncertainty-aware confidence annotations, and chosen/rejected preference pairs that support supervised fine-tuning, reward modeling, preference optimization, and fine-grained error diagnosis.
+-  We further establish baseline results across representative multimodal large models, highlighting the persistent difficulty of structured geo-world understanding. By focusing on the under-explored problem of semantically grounded change reasoning, Geo-BC provides critical data infrastructure to support the development of geospatial semantic spatiotemporal understanding..
 </div>
 </div>
 
 - **2026**
-1. Jiahui Sun, **Tao Xu**, Xiaohui Yang, Tongzhen Si, Xiaoli Liu. [Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance](https://ieeexplore.ieee.org/document/11462313)[C]. **ICASSP 2026**- 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026:12942-12946.(CCF-B) 
-2. Hao Zhang, **Tao Xu**, et al.FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection[C].**IJCNN 2026**, Accepted.(CCF-C)
-3. Yijing Zhai, Tao Xu, Hao Zhang, Jiayin Zhang, Ruke Shang.Contrastive Language-Image Pre-training-guided Remote Sensing Curriculum Learning Network[C].**ICIC2026**-2026 International Conference on Intelligent Computing,Accepted.(CCF-C)
+
+1. Jiaqi Kong, Yiqun Niu, **Tao Xu**, Qingjie Liu, Xiaohui Yang. Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding[C].**ACM MM 2026**, Accepted.(CCF-A)
+2. Jiahui Sun, **Tao Xu**, Xiaohui Yang, Tongzhen Si, Xiaoli Liu. [Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance](https://ieeexplore.ieee.org/document/11462313)[C]. **ICASSP 2026**- 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026:12942-12946.(CCF-B) 
+3. Hao Zhang, **Tao Xu**, et al.FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection[C].**IJCNN 2026**, Accepted.(CCF-C)
+4. Yijing Zhai, Tao Xu, Hao Zhang, Jiayin Zhang, Ruke Shang.Contrastive Language-Image Pre-training-guided Remote Sensing Curriculum Learning Network[C].**ICIC2026**-2026 International Conference on Intelligent Computing,Accepted.(CCF-C)
 
 
 - **2025**
