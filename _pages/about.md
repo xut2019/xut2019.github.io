@@ -31,7 +31,7 @@ Research interest includes **remote sensing image analysis** and **human-compute
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/GEOBC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/GEOBC.png' alt="sym" hight="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding
