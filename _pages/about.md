@@ -41,7 +41,7 @@ Research interest includes **remote sensing image analysis** and **human-compute
 </div>
 
 - **2026**
-1. Jiaqi Kong, Yiqun Niu, **Tao Xu**, Qingjie Liu, Xiaohui Yang. Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding[C].**ACM MM 2026**, Accepted.(CCF-A)[Project](https://beyondcaptioning.com/)
+1. Jiaqi Kong, Yiqun Niu, **Tao Xu**, Qingjie Liu, Xiaohui Yang. Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding[C].**ACM MM 2026**, Accepted.(CCF-A) [Project](https://beyondcaptioning.com/)
 2. Jiahui Sun, **Tao Xu**, Xiaohui Yang, Tongzhen Si, Xiaoli Liu. [Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance](https://ieeexplore.ieee.org/document/11462313)[C]. **ICASSP 2026**- 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026:12942-12946.(CCF-B) 
 3. Hao Zhang, **Tao Xu**, et al.FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection[C].**IJCNN 2026**, Accepted.(CCF-C)
 4. Yijing Zhai, Tao Xu, Hao Zhang, Jiayin Zhang, Ruke Shang.Contrastive Language-Image Pre-training-guided Remote Sensing Curriculum Learning Network[C].**ICIC2026**-2026 International Conference on Intelligent Computing,Accepted.(CCF-C)
