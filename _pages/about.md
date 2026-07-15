@@ -41,14 +41,14 @@ Research interest includes **remote sensing image analysis** and **human-compute
 </div>
 
 - **2026**
-1. Jiaqi Kong, Yiqun Niu, **Tao Xu**, Qingjie Liu, Xiaohui Yang. Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding[C].**ACM MM 2026**, Accepted.(CCF-A) [Project](https://beyondcaptioning.com/)
-2. Jiahui Sun, **Tao Xu**, Xiaohui Yang, Tongzhen Si, Xiaoli Liu. [Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance](https://ieeexplore.ieee.org/document/11462313)[C]. **ICASSP 2026**- 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026:12942-12946.(CCF-B) 
-3. Hao Zhang, **Tao Xu**, et al.FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection[C].**IJCNN 2026**, Accepted.(CCF-C)
-4. Yijing Zhai, Tao Xu, Hao Zhang, Jiayin Zhang, Ruke Shang.Contrastive Language-Image Pre-training-guided Remote Sensing Curriculum Learning Network[C].**ICIC2026**-2026 International Conference on Intelligent Computing,Accepted.(CCF-C)
+1. Jiaqi Kong, Yiqun Niu, **Tao Xu**, Qingjie Liu, Xiaohui Yang. Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding[C].**ACM MM 2026**, Accepted.(**CCF-A**)  [Project](https://beyondcaptioning.com/)
+2. Jiahui Sun, **Tao Xu**, Xiaohui Yang, Tongzhen Si, Xiaoli Liu. [Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance](https://ieeexplore.ieee.org/document/11462313)[C]. **ICASSP 2026**- 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026:12942-12946.(**CCF-B**) 
+3. Hao Zhang, **Tao Xu**, et al.FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection[C].**IJCNN 2026**, Accepted.(**CCF-C**)
+4. Yijing Zhai, Tao Xu, Hao Zhang, Jiayin Zhang, Ruke Shang.Contrastive Language-Image Pre-training-guided Remote Sensing Curriculum Learning Network[C].**ICIC2026**-2026 International Conference on Intelligent Computing,Accepted.(**CCF-C**)
 
 
 - **2025**
-1. Han M, **Xu T**, Liu Q, et al. [HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection](https://ieeexplore.ieee.org/document/10836868)[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**,2025, 18:4318-4330. (SCI) [code](https://github.com/Han-MZ/HFIFNet)
+1. Han M, **Xu T**, Liu Q, et al. [HFIFNet: Hierarchical Feature Interaction Network with Multi-scale Fusion for Change Detection](https://ieeexplore.ieee.org/document/10836868)[J]. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS)**,2025, 18:4318-4330. (SCI)  [code](https://github.com/Han-MZ/HFIFNet)
 2. Han Zhang, **Tao Xu**, Xiaohui Yang, Yuqian Zhang, Chenxin Xiao. [Group Convolution Attention based Multi-Scale Object Detection of Remote Sensing Images](https://ieeexplore.ieee.org/document/11242500)[C]. **2025 IEEE International Geoscience and Remote Sensing Symposium（IGARSS 2025）**, Brisbane, Australia, 2025: 6031-6035.
 3. Chenxin Xiao, **Tao Xu**, Xiaohui Yang, Wenjun Kang, Junyuan Zang. [EANV: An Edge Attention Network with VMamba Block for Semantic Segmentation from Remote Sensing Images](https://ieeexplore.ieee.org/document/11242319)[C]. **2025 IEEE International Geoscience and Remote Sensing Symposium（IGARSS 2025）**, Brisbane, Australia, 2025: 2131-2135.
 4. Junyuan Zang , **Tao Xu**, Xiaohui Yang , Yuqian Zhang and Wenjun Kang. MSD-SEG: Multi-scale Deformable Convolution Network for Segmentation of Remote Sensing Images[C]. International Conference on Intelligent Computing(**ICIC2025**). Singapore: Springer Nature Singapore, 2025: 278-290.
