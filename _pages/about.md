@@ -34,7 +34,7 @@ Research interest is multimodal information processing in the following topics:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/GEOBC.png' alt="sym" hight="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding](https://beyondcaptioning.com/)
+**Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding**  [Project](https://beyondcaptioning.com/)
 -  We introduce Geo-BC, a large-scale, preference-aligned multimodal benchmark that reframes change analysis as structured change interpretation rather than caption generation. The benchmark contains 109224 spatiotemporal samples, supplemented by 327672 reasoning clues and 382284 review comments, enabling process-level supervision beyond final-answer evaluation, as well as a curated Pro subset for challenging evaluation.
 -  Geo-BC provides language-grounded reasoning trajectories, hard negative supervision for pseudo-change rejection, uncertainty-aware confidence annotations, and chosen/rejected preference pairs that support supervised fine-tuning, reward modeling, preference optimization, and fine-grained error diagnosis. Geo-BC also provides critical data infrastructure to support the development of geospatial semantic spatiotemporal understanding.
 </div>
