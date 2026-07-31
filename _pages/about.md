@@ -27,7 +27,6 @@ Research interest is multimodal information processing in the following topics:
 # 🔥 News
 
 - **2026.7.10**: &nbsp;Our paper "Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding" has been accepted by ACM MM 2026(**CCF-A**). Congratulations to Jiaqi and Yiqun!
-- **2026.3.21**: &nbsp;Our paper "FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection" has been accepted by IJCNN 2026(CCF-C).
 
 # 📝 Publications 
 
