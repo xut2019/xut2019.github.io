@@ -42,7 +42,7 @@ Research interest is multimodal information processing in the following topics:
 - **2026**
 1. Jiaqi Kong, Yiqun Niu, **Tao Xu**, Qingjie Liu, Xiaohui Yang. Beyond Captioning: A Preference-Aligned Benchmark for Fine-Grained Reasoning and Spatiotemporal Geo-World Understanding[C].**ACM MM 2026**, Accepted.(**CCF-A**)  [Project](https://beyondcaptioning.com/)
 2. Jiahui Sun, **Tao Xu**, Xiaohui Yang, Tongzhen Si, Xiaoli Liu. [Multimodal Fusion-based IPCLIP Network for Mixed Reality Surgical Assistance](https://ieeexplore.ieee.org/document/11462313)[C]. **ICASSP 2026**- 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026:12942-12946.(**CCF-B**) 
-3. Hao Zhang, **Tao Xu**, et al.FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection[C].**IJCNN 2026**, Accepted.(**CCF-C**)
+3. Hao Zhang, **Tao Xu**, et al.FSFENet: An Efficient Frequency-Spatial Feature Extraction Network for Remote Sensing Change Detection[C]. 2026 International Joint Conference on Neural Networks (**IJCNN 2026**), Maastricht, Netherlands, 2026：1-7, doi: 10.1109/IJCNN69854.2026.11729663..(**CCF-C**)
 4. Yijing Zhai, Tao Xu, Hao Zhang, Jiayin Zhang, Ruke Shang.Contrastive Language-Image Pre-training-guided Remote Sensing Curriculum Learning Network[C]. 2026 International Conference on Intelligent Computing(ICIC 2026). Lecture Notes in Computer Science,Springer, Singapore, 2026(16666):180–19.(**CCF-C**)
 
 
